@@ -1,4 +1,4 @@
-# 💇 Hair Style Recommendation System
+#  Hair Style Recommendation System
 
 An AI-powered web application that analyzes facial features and provides personalized hairstyle recommendations using computer vision and deep learning.
 
